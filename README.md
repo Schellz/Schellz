@@ -1,8 +1,4 @@
-### Olá, tudo bem? Eu me chamo Diego e sou Dev Junior!
-
-
-- 🔭 Hoje trabalho com Desenvolvimento Mobile
-- 🌱 Estudando React Native
+### Olá, tudo bem? Me chamo Diego e sou Desenvolvedor Mobile!
 
 <div align="center">
   <a href="https://github.com/Schellz">
