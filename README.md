@@ -20,6 +20,6 @@ Minha escolha por Java e o ecossistema Spring baseia-se em sua comprovada robust
 ## 🏆 Conquistas no GitHub:
 ![](https://github-profile-trophy.vercel.app/?username=Schellz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Frase do Dia:
+### ✍️Inspiração para Desenvolvedores:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
