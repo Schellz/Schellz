@@ -7,6 +7,7 @@ Olá! Meu nome é Diego Schell, tenho 24 anos e sou apaixonado por tecnologia! C
 
 # 🌐 Contato:
 📫 Vamos conversar? Fique à vontade para entrar em contato aqui no GitHub ou pelas minhas redes.
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Schellz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/schellz/) 
 
 # 💻 Principais ferramentas que utilizo:
