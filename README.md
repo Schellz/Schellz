@@ -1,20 +1,12 @@
 # 💫 Sobre mim:
 
-👋 Olá! Meu nome é Diego Schell, tenho 24 anos e sou apaixonado por tecnologia! 💻
-
-#🚀 Minha trajetória:
-Com 4 anos de experiência na área de tecnologia, comecei minha jornada como Analista de TI, adquirindo uma base sólida em redes, servidores e sistemas operacionais. Posteriormente, atuei como Analista de Sistemas, onde me aproximei do desenvolvimento de soluções para empresas, trabalhando com levantamento de requisitos, análise de regras de negócio, gerenciamento de backlog e testes de funcionalidades desenvolvidas. Atualmente, sou Desenvolvedor Backend, dedicando meu foco à criação de sistemas escaláveis e seguros.
-
-☕ Por que Java e Spring?
-Escolhi Java e o ecossistema Spring por sua robustez, confiabilidade e capacidade de entregar aplicações de alta performance, atendendo às demandas de negócios em crescimento.
+Olá! Meu nome é Diego Schell, tenho 24 anos e sou apaixonado por tecnologia! Com 4 anos de experiência na área, comecei minha trajetória como Analista de TI, adquirindo uma base sólida em redes, servidores e sistemas operacionais. Posteriormente, atuei como Analista de Sistemas, onde me aproximei do desenvolvimento de soluções empresariais, trabalhando com levantamento de requisitos, análise de regras de negócio, gerenciamento de backlog e testes de funcionalidades. Atualmente, sou Desenvolvedor Backend, focado na criação de sistemas escaláveis e seguros. Escolhi Java e o ecossistema Spring por sua robustez e confiabilidade, ideais para entregar aplicações de alta performance que atendem às necessidades de negócios em crescimento. Meu objetivo é continuar evoluindo como desenvolvedor, explorando novas tecnologias e contribuindo para projetos que façam a diferença!
 
 
-💡 Meu objetivo: Continuar crescendo como desenvolvedor, explorando novas tecnologias e contribuindo para projetos que façam a diferença!
-
-📫 Vamos conversar? Fique à vontade para entrar em contato aqui no GitHub ou pelas minhas redes.
 
 
 # 🌐 Contato:
+📫 Vamos conversar? Fique à vontade para entrar em contato aqui no GitHub ou pelas minhas redes.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Schellz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/schellz/) 
 
 # 💻 Principais ferramentas que utilizo:
