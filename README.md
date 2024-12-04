@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💻 Sobre mim:
 
 Olá! Meu nome é Diego Schell, tenho 24 anos e sou apaixonado por tecnologia! Atualmente, sou Desenvolvedor Backend com foco em sistemas escaláveis e seguros. Com 4 anos de experiência em TI, iniciei minha carreira como Analista de TI, com uma sólida base em redes e infraestrutura. Posteriormente, como Analista de Sistemas, me aproximei do desenvolvimento de soluções empresariais, envolvendo levantamento de requisitos, análise de regras de negócio e testes de funcionalidades. Hoje, atuo com Java e o ecossistema Spring, utilizando essas tecnologias para criar soluções de alta performance que atendem às demandas de negócios em constante evolução.
 
