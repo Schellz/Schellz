@@ -1,8 +1,19 @@
-# 💫 About Me:
-Olá! Sou Diego Schell, de Maravilha, uma cidade no oeste catarinense. Minha paixão pela tecnologia começou cedo, movida pela curiosidade e pelo desejo de entender como as coisas funcionam. Foi explorando esse universo que percebi o poder da programação para resolver problemas reais e transformar o cotidiano das pessoas.<br><br>Atualmente, trabalho como analista de sistemas e desenvolvedor back-end, com experiência em Java e Spring Boot. Além disso, tenho expertise em Docker e AWS, sempre buscando criar soluções eficientes e escaláveis para enfrentar desafios cada vez mais complexos
+# 💫 Sobre mim:
+👋 Olá! Meu nome é Diego Schell, tenho 24 anos e sou apaixonado por tecnologia! 💻
+
+#🚀 Minha trajetória:
+Com 4 anos de experiência na área de tecnologia, comecei minha jornada como Analista de TI, adquirindo uma base sólida em redes, servidores e sistemas operacionais. Posteriormente, atuei como Analista de Sistemas, onde me aproximei do desenvolvimento de soluções para empresas, trabalhando com levantamento de requisitos, análise de regras de negócio, gerenciamento de backlog e testes de funcionalidades desenvolvidas. Atualmente, sou Desenvolvedor Backend, dedicando meu foco à criação de sistemas escaláveis e seguros.
+
+#☕ Por que Java e Spring?
+Escolhi Java e o ecossistema Spring por sua robustez, confiabilidade e capacidade de entregar aplicações de alta performance, atendendo às demandas de negócios em crescimento.
 
 
-## 🌐 Socials:
+#💡 Meu objetivo: Continuar crescendo como desenvolvedor, explorando novas tecnologias e contribuindo para projetos que façam a diferença!
+
+📫 Vamos conversar? Fique à vontade para entrar em contato aqui no GitHub ou pelas minhas redes.
+
+
+## 🌐 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Schellz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/schellz/) 
 
 # 💻 Tech Stack:
