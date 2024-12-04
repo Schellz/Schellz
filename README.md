@@ -22,6 +22,6 @@ Olá! Meu nome é Diego Schell, tenho 24 anos e sou apaixonado por tecnologia! A
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schellz)
 
 
